@@ -1,0 +1,17 @@
+.breadcrumbs {
+font-size: 11px;
+margin-bottom: 15px;
+    color: #542315;
+}
+.breadcrumbs a{
+   color: #542315;
+       padding: 0 5px;
+           display: inline-block;
+}
+.breadcrumbs a:hover{
+	text-decoration: none;
+}
+.breadcrumbs .curent{
+       padding: 0 5px;
+
+}
